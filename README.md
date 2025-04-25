@@ -68,4 +68,7 @@ El modelo estrella consta de una tabla central de hechos conectada a múltiples 
   - `nombre_oficina`: Nombre descriptivo de la oficina
   - `tipo_oficina`: Clasificación de la oficina
   - `ubicacion`: Ubicación geográfica general
+  - 
+  ![image](https://github.com/user-attachments/assets/e555c5fc-a83c-466d-91c9-b01f1187769f)
+
 
